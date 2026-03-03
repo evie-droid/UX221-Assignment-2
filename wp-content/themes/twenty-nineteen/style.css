@@ -1,0 +1,15 @@
+/*
+Theme Name:     Twenty Nineteen
+Description:    
+Author:         evelynchan180
+Template:       twentynineteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+body{
+	background-color: blueviolet
+}
+body{
+	font-weight: 1000;
+	font-family: cursive;
+}
