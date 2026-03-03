@@ -1,0 +1,5 @@
+[03-Mar-2026 02:25:49 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Assignment-2/.wordpress/wp-includes/pluggable.php on line 1721
+[03-Mar-2026 02:49:22 UTC] PHP Warning:  Attempt to read property "queue" on null in /workspaces/UX221-Assignment-2/.wordpress/wp-includes/class-wp-oembed-controller.php on line 211
+[03-Mar-2026 02:49:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /workspaces/UX221-Assignment-2/.wordpress/wp-includes/class-wp-oembed-controller.php on line 211
+[03-Mar-2026 03:05:24 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[03-Mar-2026 03:05:38 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
