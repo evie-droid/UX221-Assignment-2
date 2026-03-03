@@ -1,0 +1,21 @@
+/*
+Theme Name:     Twenty_Fifteen
+Description:    
+Author:         evelynchan180
+Template:       twentyfifteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+h1{
+	color: pink
+}
+
+body{
+	font-family: georgian
+}
+body{
+	font-size: x-large
+}
+div{
+	background-color: lightgray
+}
